@@ -1,0 +1,19 @@
+Your Question,Zencode's Response,flag,username,timestamp
+print helo world in java,"Here is an example of how to print ""Hello World!"" in Java:
+```
+public class Main {
+  public static void main(String[] args) {
+    System.out.println(""Hello, World!"");
+  }
+}
+```
+This code will print ""Hello, World!"" when you run the program.",,,2025-06-07 12:13:15.062652
+print helo world in java,"Here is an example of how to print ""Hello World!"" in Java:
+```
+public class Main {
+  public static void main(String[] args) {
+    System.out.println(""Hello, World!"");
+  }
+}
+```
+This code will print ""Hello, World!"" when you run the program.",,,2025-06-07 12:13:18.754862
